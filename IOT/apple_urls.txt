@@ -1,1 +1,7 @@
+# KCL3NT's Apple Tracker DNS blocklist
+# Blocks the odd domains Apple Devices reach out to on your network.
+## This list is reserved for URLs that DO NOT impact functionality of the impacted devices.
+
+## Begin List
+
 api.segment.io
