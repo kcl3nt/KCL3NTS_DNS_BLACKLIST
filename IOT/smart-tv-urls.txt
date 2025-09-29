@@ -4,13 +4,22 @@
 
 ## Begin List
 
+### Roku URLs
 scribe.logs.roku.com
 liberty.logs.roku.com
+
+### Streaming Service URLS
 logs.netflix.com
+ichnaea.netflix.com
+customerevents.netflix.com
+
+### Samsung URLs
+sastv.samsungqbe.com
 lcprd1.samsungcloudsolution.net
 log-ingestion.samsungacr.com
 oempprd.samsungcloudsolution.com
+lcprd1.samsungcloudsolution.net
+log-ingestion.samsungacr.com
+
+### Misc URLs
 tvx.adgrx.com
-sastv.samsungqbe.com
-customerevents.netflix.com
-ichnaea.netflix.com
