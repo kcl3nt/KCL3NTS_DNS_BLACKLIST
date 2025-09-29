@@ -5,3 +5,7 @@
 ## Begin List
 
 api.segment.io
+browser-intake-datadoghq.com
+sb.scorecardresearch.com
+msmetrics.ws.sonos.com
+device-metrics-us-2.amazon.com
