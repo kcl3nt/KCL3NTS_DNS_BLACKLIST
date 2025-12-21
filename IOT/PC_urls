@@ -1,7 +1,5 @@
 # This blocklist is meant to catch URLs my PC randomly hits while exploring the internet.
 # BEGIN LIST
 
-collector.github.com
-
 # Zoom Trackers:
 log.zoom.us
