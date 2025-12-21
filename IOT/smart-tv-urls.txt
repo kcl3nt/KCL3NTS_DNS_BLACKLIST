@@ -2,18 +2,18 @@
 # Blocks the odd domains smart TVs reach out to on your network.
 ## This list is reserved for URLs that DO NOT impact functionality of the impacted devices.
 
-## Begin List
+#Begin List
 
-### Roku URLs
+## Roku URLs
 scribe.logs.roku.com
 liberty.logs.roku.com
 
-### Streaming Service URLS
+# Streaming Service URLS
 logs.netflix.com
 ichnaea.netflix.com
 customerevents.netflix.com
 
-### Samsung URLs
+# Samsung URLs
 sastv.samsungqbe.com
 lcprd1.samsungcloudsolution.net
 log-ingestion.samsungacr.com
