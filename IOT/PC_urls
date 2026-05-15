@@ -3,3 +3,8 @@
 
 # Zoom Trackers:
 log.zoom.us
+
+# Microsoft Trackers:
+settings-win.data.microsoft.com
+v10.events.data.microsoft.com
+tsfe.trafficshaping.dsp.mp.microsoft.com
