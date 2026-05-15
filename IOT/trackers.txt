@@ -3,3 +3,5 @@
 delta.data.adobedc.net
 siteintercept.qprod2.net
 eligibility-panelresearch.googlevideo.com
+tracking.refersion.com
+track.sv.rkdms.com
