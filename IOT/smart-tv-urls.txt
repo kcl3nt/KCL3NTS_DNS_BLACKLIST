@@ -13,6 +13,9 @@ logs.netflix.com
 ichnaea.netflix.com
 customerevents.netflix.com
 
+# General Smart TV Trackers
+firehose.us-east-1.amazonaws.com
+
 # Samsung URLs
 sastv.samsungqbe.com
 lcprd1.samsungcloudsolution.net
